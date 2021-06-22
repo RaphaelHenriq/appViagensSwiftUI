@@ -1,2 +1,2 @@
-# SwiftUI_alura-viagens
-app do alura viagens com SwiftUi
+# SwiftUI-viagens
+Aplicação de viagens, testando e aplicando componentes no template do SwiftUI
